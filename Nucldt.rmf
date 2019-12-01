@@ -1,0 +1,10 @@
+NNUCL
+ 4
+NPROT  NNEUT  RMAX  PSHELL  NSHELL    NLAMDA JSL   RGW
+  20     20    20.0    11      11         0    1    1.0
+  20     28    20.0    11      11         0    1    1.0
+  40     50    20.0    11      11         0    1    1.0
+  82    126    20.0    11      11         0    1    1.0
+ 
+
+ 
